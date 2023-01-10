@@ -1,0 +1,28 @@
+Ejecutando comandos en ibsen:
+
+Ejecutando hostname: ibsen
+
+Ejecutando cat /etc/os-release: NAME="CentOS Linux" VERSION="8 (Core)" ID="centos" ID_LIKE="rhel fedora" VERSION_ID="8" PLATFORM_ID="platform:el8" PRETTY_NAME="CentOS Linux 8 (Core)" ANSI_COLOR="0;31" CPE_NAME="cpe:/o:centos:centos:8" HOME_URL="https://www.centos.org/" BUG_REPORT_URL="https://bugs.centos.org/" CENTOS_MANTISBT_PROJECT="CentOS-8" CENTOS_MANTISBT_PROJECT_VERSION="8" REDHAT_SUPPORT_PRODUCT="centos" REDHAT_SUPPORT_PRODUCT_VERSION="8"
+
+Ejecutando pwd: /home/alumno36/capcn-labs/capcn-lab7/lab7-singularity
+
+Ejecutando ls -l /home: total 140 drwx------. 6 alejandro alejandro 272 ene 10 19:10 alejandro drwx------. 20 alumno01 alumno01 4096 ene 10 16:30 alumno01 drwx------. 14 alumno02 alumno02 4096 ene 10 18:44 alumno02 drwx------. 2 alumno03 alumno03 133 nov 30 11:45 alumno03 drwx------. 3 alumno04 alumno04 145 nov 30 12:44 alumno04 drwx------. 2 alumno05 alumno05 133 nov 30 11:45 alumno05 drwx------. 11 alumno06 alumno06 4096 ene 8 23:00 alumno06 drwx------. 2 alumno07 alumno07 133 nov 30 11:59 alumno07 drwx------. 19 alumno08 alumno08 4096 ene 10 19:32 alumno08 drwx------. 2 alumno09 alumno09 133 nov 30 12:03 alumno09 drwx------. 2 alumno10 alumno10 133 nov 30 12:00 alumno10 drwx------. 2 alumno11 alumno11 133 nov 30 12:00 alumno11 drwx------. 2 alumno12 alumno12 133 nov 30 12:00 alumno12 drwx------. 11 alumno13 alumno13 4096 feb 9 2022 alumno13 drwx------. 17 alumno14 alumno14 4096 ene 9 13:44 alumno14 drwx------. 17 alumno15 alumno15 4096 dic 30 23:05 alumno15 drwx------. 9 alumno16 alumno16 4096 ene 10 18:26 alumno16 drwx------. 3 alumno17 alumno17 145 nov 30 12:45 alumno17 drwx------. 3 alumno18 alumno18 145 nov 30 12:45 alumno18 drwx------. 2 alumno19 alumno19 133 nov 30 12:05 alumno19 drwx------. 15 alumno20 alumno20 4096 ene 10 16:11 alumno20 drwx------. 13 alumno21 alumno21 4096 ene 9 19:58 alumno21 drwx------. 20 alumno22 alumno22 4096 ene 10 15:53 alumno22 drwx------. 19 alumno23 alumno23 4096 ene 9 17:28 alumno23 drwx------. 14 alumno24 alumno24 4096 ene 10 16:41 alumno24 drwx------. 23 alumno25 alumno25 4096 ene 10 18:03 alumno25 drwx--x--x. 5 alumno26 alumno26 4096 ene 4 12:27 alumno26 drwx------. 7 alumno27 alumno27 4096 ene 10 19:28 alumno27 drwx------. 13 alumno28 alumno28 4096 ene 8 19:42 alumno28 drwx------. 2 alumno29 alumno29 133 nov 30 12:08 alumno29 drwx------. 2 alumno30 alumno30 133 nov 30 12:08 alumno30 drwx------. 2 alumno31 alumno31 133 nov 30 12:08 alumno31 drwx------. 2 alumno32 alumno32 133 nov 29 19:25 alumno32 drwx------. 11 alumno33 alumno33 4096 ene 10 19:08 alumno33 drwx------. 23 alumno34 alumno34 4096 ene 10 18:40 alumno34 drwx------. 16 alumno35 alumno35 4096 ene 10 19:28 alumno35 drwx------. 11 alumno36 alumno36 4096 ene 10 19:26 alumno36 drwx------. 6 aorenes aorenes 238 jul 16 23:43 aorenes drwx------. 3 biagio biagio 147 sep 21 2020 biagio drwx------. 6 borja borja 215 ene 7 16:48 borja drwx------. 7 druiz druiz 273 feb 10 2022 druiz drwx------. 40 fguil fguil 8192 dic 23 09:57 fguil drwxr-xr-x. 16 jesus jesus 4096 nov 7 17:08 jesus drwx------. 2 jesusg jesusg 153 oct 24 11:24 jesusg drwx------. 19 jhidalgo jhidalgo 4096 jun 25 2021 jhidalgo drwx------. 28 jmgarcia jmgarcia 4096 ene 3 21:00 jmgarcia drwx------. 12 marcos marcos 4096 nov 25 16:54 marcos drwx------. 2 medicos medicos 127 ene 10 2022 medicos lrwxrwxrwx. 1 root root 18 jul 30 2021 modules -> /nas/hdd-0/modules drwx------. 73 pablo pablo 8192 ene 10 09:12 pablo drwxr-xr-x. 9 pilar pilar 4096 dic 20 12:58 pilar drwx------. 6 raul raul 252 ene 10 2022 raul drwx------. 6 saul saul 4096 dic 1 19:11 saul drwx------. 5 vicente vicente 226 ago 21 09:14 vicente
+
+Ejecutando python --version: Python 3.8.5
+
+Ejecutando notebook kmer-solution.ipynb: [22;0t]0;IPython: capcn-lab7/lab7-singularityStart Number of generated k-mers: 268435456 752 ms ± 6.91 ms per loop (mean ± std. dev. of 2 runs, 1 loop each) Finish!
+
+Ejecutando comandos en singularity:
+
+Ejecutando hostname: ibsen
+
+Ejecutando cat /etc/os-release: PRETTY_NAME="Debian GNU/Linux 11 (bullseye)" NAME="Debian GNU/Linux" VERSION_ID="11" VERSION="11 (bullseye)" VERSION_CODENAME=bullseye ID=debian HOME_URL="https://www.debian.org/" SUPPORT_URL="https://www.debian.org/support" BUG_REPORT_URL="https://bugs.debian.org/"
+
+Ejecutando pwd: /home/alumno36/capcn-labs/capcn-lab7/lab7-singularity
+
+Ejecutando ls -l /home: total 716 drwx------. 11 alumno36 alumno36 4096 Jan 10 19:26 alumno36 -rw-r--r--. 1 root root 4020 Jan 9 18:24 kmer-solution.ipynb -rwxr-xr-x. 1 root root 303841 Jan 9 17:49 lab6-jupyter-files.zip -rw-r--r--. 1 root root 417019 Jan 9 18:24 pi-solution.ipynb -rw-r--r--. 1 root root 1231 Jan 9 17:55 requirements.txt
+
+Ejecutando python --version: Python 3.7.16
+
+Ejecutando notebook kmer-solution.ipynb: [22;0t]0;IPython: capcn-lab7/lab7-singularityStart Number of generated k-mers: 268435456 752 ms ± 3.48 ms per loop (mean ± std. dev. of 2 runs, 1 loop each) Finish!
+
